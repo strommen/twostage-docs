@@ -1,0 +1,13 @@
+# Site settings
+title: TwoStage
+email: joe@joestrommen.com
+description: > # this means to ignore newlines until "baseurl:"
+  TwoStage is a technique to make your website load instantly by caching the static portions of your HTML.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://www.twostage.io" # the base hostname & protocol for your site
+twitter_username: strommen
+github_username:  strommen/twostage
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
